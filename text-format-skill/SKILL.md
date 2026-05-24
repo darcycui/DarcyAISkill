@@ -1,5 +1,5 @@
 ---
-name: my-first-skill
+name: text-format-skill
 description: 通过删除多余空格、修正大小写和纠正标点符号来格式化和清理文本内容
 ---
 
