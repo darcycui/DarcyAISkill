@@ -19,6 +19,7 @@ Python语言，基于 Claude Skill (Anthropic) 规则实现的一个 Skill。
  - 把skill文件夹复制到 skills 中
 
 ### 运行结果
+输入：格式化文本 "hello    tom  and jerry  "
 ![运行结果](Skill运行效果.png)
 
 ## 参考文章
